@@ -1,0 +1,126 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="VoucherTemplates.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> SWIFT Voucher Generator</title>
+    <link href="~/Content/Site.css" rel="stylesheet" /> 
+  
+     <link rel="shortcut icon" type="image/x-icon" href="Images/swift.ico" />
+    <asp:PlaceHolder runat="server">        
+        <script src="<%: ResolveUrl("~/Scripts/modernizr-2.6.2.js") %>"></script>
+    </asp:PlaceHolder>
+    <meta name="viewport" content="width=device-width" />
+    <link href="Boostrapp/bootstrap.css" rel="stylesheet" />
+    <link href="Boostrapp/bootstrap.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+    <%--<script>
+        function gethdnValue() {
+            //Get the value of Hidden field
+            var hdnField = document.getElementById('<%= Role.ClientID %>').value;
+       }
+    </script>--%>
+    
+</head>
+<body>
+    <form runat="server">
+    <asp:ScriptManager runat="server">
+        <Scripts>
+            <asp:ScriptReference Name="jquery" />
+            <asp:ScriptReference Name="jquery.ui.combined" />
+            <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+            <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+            <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+            <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+            <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+            <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+            <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+            <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+        </Scripts>
+    </asp:ScriptManager>
+    <%--<header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title"><a runat="server" href="~/">your logo here</a></p>
+            </div>
+            <div class="float-right">
+                <section id="login">
+                    <asp:LoginView runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <ul>
+                                <li><a id="registerLink" runat="server" href="~/Account/Register">Register</a></li>
+                                <li><a id="loginLink" runat="server" href="~/Account/Login">Log in</a></li>
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <p>
+                                Hello, <a runat="server" class="username" href="~/Account/Manage" title="Manage your account">
+                                    <asp:LoginName runat="server" CssClass="username" />
+                                </a>!
+                                <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" />
+                            </p>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </section>
+                <nav>
+                    <ul id="menu">
+                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/About">About</a></li>
+                        <li><a runat="server" href="~/Contact">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>--%>
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-lg-8">
+                <div class="panel panel-danger" style="width:100%; border-radius:0px 0px">
+                    <div class="panel-heading" style="background-color:#E4002B;">
+                        <div class="row">
+                            <div class="col-lg-3">
+                                <img src="images/imgs/logo.jpg" />
+                            </div>
+                            <div class="col-lg-9" style="float:right">
+                                <asp:Button ID="btnLogOut" runat="server" Text="Log Out" style="border-radius:0px 0px;background-color:white; font-size:12px; float:right" OnClick="btnLogOut_Click" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-lg-3">
+                                <div class="list-group">
+                                    <%if (Session["Role"].ToString()=="Admin"){%>
+                                    <a href="GenerateVoucher.aspx" class="list-group-item" style="border-radius:0px 0px">Generate Voucher</a>
+                                    <a href="ViewVoucher.aspx" class="list-group-item" style="border-radius:0px 0px">View Voucher</a>
+                                    <a href="ActivateVoucher.aspx" class="list-group-item" style="border-radius:0px 0px">Activate Voucher</a>
+                                    <a href="ManageUsers.aspx" class="list-group-item" style="border-radius:0px 0px" >Manage Users</a>
+                                    <%}
+                                    else if (Session["Role"].ToString() == "Activator")
+                                    {%>
+                                    <a href="ActivateVoucher.aspx" class="list-group-item" style="border-radius:0px 0px" >Activate Voucher</a>
+                                   
+                                    <%} else {%>
+                                    <a href="GenerateVoucher.aspx" class="list-group-item" style="border-radius:0px 0px" >Generate Voucher</a>
+                                    <a href="ViewVoucher.aspx" class="list-group-item" style="border-radius:0px 0px" >View Voucher</a> 
+                                    <%} %> 
+                                </div>
+                              
+                            </div>
+                            <div class="col-lg-9">
+                                <asp:ContentPlaceHolder runat="server" ID="ContentPlaceHolder1" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel-footer">
+                         <p>&copy; <%: DateTime.Now.Year %> - Swift Networks</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2"></div>
+        </div>
+     
+    </form>
+</body>
+</html>

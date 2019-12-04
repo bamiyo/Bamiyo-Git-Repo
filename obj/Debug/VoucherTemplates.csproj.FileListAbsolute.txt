@@ -1,0 +1,97 @@
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\VoucherTemplates.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\VoucherTemplates.pdb
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.Core.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\EntityFramework.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\System.Web.Providers.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\EntityFramework.xml
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.Core.xml
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\obj\Debug\VoucherTemplates.csprojResolveAssemblyReference.cache
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\obj\Debug\VoucherTemplates.dll
+C:\Users\UYI\Documents\VoucherTemplates\VoucherTemplates\obj\Debug\VoucherTemplates.pdb
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\VoucherTemplates.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\VoucherTemplates.pdb
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.Core.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\EntityFramework.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\System.Web.Providers.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\EntityFramework.xml
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.Core.xml
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\obj\Debug\VoucherTemplates.dll
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\obj\Debug\VoucherTemplates.pdb
+C:\Users\BOGBEIDE\Desktop\VoucherTemplates\VoucherTemplates\obj\Debug\VoucherTemplates.csprojResolveAssemblyReference.cache
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\VoucherTemplates.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\VoucherTemplates.pdb
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.Core.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\EntityFramework.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\System.Web.Providers.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\EntityFramework.xml
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.Core.xml
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\obj\Debug\VoucherTemplates.csprojResolveAssemblyReference.cache
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\obj\Debug\VoucherTemplates.dll
+C:\Users\BOGBEIDE\Documents\Visual Studio 2012\Projects\VoucherTemplates\VoucherTemplates\obj\Debug\VoucherTemplates.pdb
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\VoucherTemplates.dll
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\VoucherTemplates.pdb
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\EntityFramework.xml
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\DotNetOpenAuth.Core.xml
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\bogbeide\Documents\Projects\Voucher Application\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\bogbeide\Documents\Projects\Voucher Application\obj\Debug\VoucherTemplates.csprojResolveAssemblyReference.cache
+C:\Users\bogbeide\Documents\Projects\Voucher Application\obj\Debug\VoucherTemplates.dll
+C:\Users\bogbeide\Documents\Projects\Voucher Application\obj\Debug\VoucherTemplates.pdb
